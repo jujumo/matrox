@@ -3,6 +3,8 @@
 Matrix-style digital rain (like `cmatrix`) whose intensity follows CPU/GPU load:
 idle machine = light drizzle, busy machine = fast, dense, glitchy storm.
 
+![matrox screenshot](screenshot.png)
+
 Runs in any terminal on Linux, macOS and Windows. No root / admin rights needed,
 neither to build nor to run.
 
